@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Shield Bearer",
+    "cost": 2,
+    "power": 3,
+    "color": "#3A9D23",
+    "ability": { "type": "GainPoints", "value": 2 }
+  },
+  {
+    "id": 2,
+    "name": "Berserker",
+    "cost": 3,
+    "power": 5,
+    "color": "#D94141",
+    "ability": { "type": "DoublePower", "value": 2 }
+  },
+  {
+    "id": 3,
+    "name": "Arcane Scholar",
+    "cost": 1,
+    "power": 1,
+    "color": "#1C78E0",
+    "ability": { "type": "DrawExtraCard", "value": 1 }
+  },
+  {
+    "id": 4,
+    "name": "Shadow Thief",
+    "cost": 2,
+    "power": 2,
+    "color": "#4A4A4A",
+    "ability": { "type": "StealPoints", "value": 2 }
+  },
+  {
+    "id": 5,
+    "name": "War Golem",
+    "cost": 4,
+    "power": 7,
+    "color": "#CE8E2B",
+    "ability": { "type": "None", "value": 0 }
+  },
+  {
+    "id": 6,
+    "name": "Fire Mage",
+    "cost": 3,
+    "power": 4,
+    "color": "#E25822",
+    "ability": { "type": "DestroyOpponentCardInPlay", "value": 1 }
+  },
+  {
+    "id": 7,
+    "name": "Assassin",
+    "cost": 2,
+    "power": 3,
+    "color": "#7C0A02",
+    "ability": { "type": "DiscardOpponentRandomCard", "value": 1 }
+  },
+  {
+    "id": 8,
+    "name": "Guardian Knight",
+    "cost": 3,
+    "power": 4,
+    "color": "#0A8A9F",
+    "ability": { "type": "GainPoints", "value": 3 }
+  },
+  {
+    "id": 9,
+    "name": "Wind Runner",
+    "cost": 1,
+    "power": 2,
+    "color": "#11BFA5",
+    "ability": { "type": "None", "value": 0 }
+  },
+  {
+    "id": 10,
+    "name": "Necromancer",
+    "cost": 4,
+    "power": 5,
+    "color": "#5300A3",
+    "ability": { "type": "StealPoints", "value": 3 }
+  },
+  {
+    "id": 11,
+    "name": "Ice Archer",
+    "cost": 2,
+    "power": 3,
+    "color": "#34C5FF",
+    "ability": { "type": "DrawExtraCard", "value": 1 }
+  },
+  {
+    "id": 12,
+    "name": "Thunder Titan",
+    "cost": 5,
+    "power": 9,
+    "color": "#F4C542",
+    "ability": { "type": "DoublePower", "value": 2 }
+  }
+]
